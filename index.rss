@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
-<title>Artyom Bolshakov's Git Achievements</title>
+<title>Tema Bolshakov's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Master Product Manager (Level 8)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Historian (Level 6)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Master Pedantic (Level 8)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
-<item><title>Master Stone Mason (Level 10)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Master Presenter (Level 7)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
-<item><title>Apprentice Merchant (Level 2)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Master Gipsy (Level 8)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
-<item><title>Investigator (Level 4)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
-<item><title>Seamstress (Level 6)</title><description>amended a commit with git commit --amend.</description></item>
-<item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Apprentice Banker (Level 3)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Master Product Manager (Level 7)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Master Miller (Level 9)</title><description>Add only part of a file to the stage 634 times with git add -p.</description></item>
-<item><title>Master Author (Level 9)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Merchant (Level 1)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Apprentice Archivist (Level 1)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
-<item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Master Stone Mason (Level 9)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Goldsmith (Level 4)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
-<item><title>Master Gipsy (Level 7)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
+<item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
 </channel></rss>
